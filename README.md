@@ -6,6 +6,6 @@ we usually meet every other week on saturdays at [redacted] makerspace in south 
 - have a laptop / chromebook / device to hack on
 - a willingness to learn, enthusiasm and dedication
 
-the website is currently a work in progress but you can send me a dm to register or show interest
+the website is currently a work in progress (the placeholder is a no-code site that we're migrating from) but you can send me (aka the club leader) a dm to register or show interest
 
 ![image](https://github.com/user-attachments/assets/13d4e7b7-f834-445c-bc08-10385374d11a)
